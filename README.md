@@ -1,4 +1,4 @@
-<h2 align="left">Olá, eu sou o Kaue Thums</h2>
+<h2 align="left">Olá, eu sou Kaue Thums</h2>
 
 ###
 
