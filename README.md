@@ -5,15 +5,11 @@
 
 <br/>
 
-## 🧰 Stack
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,php,mysql,postgres,prisma,expo,git,figma,ubuntu&perline=6" alt="stack" />
 </div>
 
 <br/>
-
-## 📊 Estatísticas
 
 <div align="center">
   <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="170" alt="stats" />
@@ -27,8 +23,6 @@
 
 <br/>
 
-## 🐍 Contribuições
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaueFelipeThums/KaueFelipeThums/output/github-snake-dark.svg" />
@@ -38,8 +32,6 @@
 </div>
 
 <br/>
-
-## 🤝 Vamos conversar
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kaue-thums-927b331a2" target="_blank">
