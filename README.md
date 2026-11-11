@@ -6,9 +6,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,php,mysql,postgres,prisma,git,figma,ubuntu&perline=6" alt="stack" />
-  <br />
-  <img src="https://cdn.simpleicons.org/expo/000000/FFFFFF" alt="Expo" height="48" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,php,mysql,postgres,prisma,git,android,ios,ubuntu&perline=6" alt="stack" />
 </div>
 
 <br/>
