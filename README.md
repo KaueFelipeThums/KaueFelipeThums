@@ -6,10 +6,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,php,mysql,postgres,prisma,expo,git,figma,ubuntu&perline=6" alt="stack" />
-</div>
-<div align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,php,mysql,postgres,prisma,git,figma,ubuntu&perline=6" alt="stack" />
+  <br />
+  <img src="https://cdn.simpleicons.org/expo/000000/FFFFFF" alt="Expo" height="48" />
 </div>
 
 <br/>
