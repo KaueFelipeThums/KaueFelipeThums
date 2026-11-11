@@ -8,17 +8,18 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,php,mysql,postgres,prisma,expo,git,figma,ubuntu&perline=6" alt="stack" />
 </div>
+<div align="center">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" />
+</div>
 
 <br/>
 
 <div align="center">
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="170" alt="stats" />
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="170" alt="most commit language" />
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="170" alt="repos per language" />
-</div>
-
-<div align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaueFelipeThums/KaueFelipeThums/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaueFelipeThums/KaueFelipeThums/output/github-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/KaueFelipeThums/KaueFelipeThums/output/github-snake.svg" />
+  </picture>
 </div>
 
 <br/>
