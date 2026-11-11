@@ -6,7 +6,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,react,nodejs,php,mysql,postgresql,prisma,git,android,apple,ubuntu&perline=6" alt="stack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,react,nodejs,php,mysql,postgresql,prisma,git,android,apple,docker&perline=6" alt="stack" />
 </div>
 
 <br/>
